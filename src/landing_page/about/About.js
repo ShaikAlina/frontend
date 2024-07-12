@@ -1,10 +1,15 @@
 import React from "react";
-
-function Signup(){
+import Hero from './Hero';
+import Team from './Team'
+function AboutPage(){
     return(
-        <h1>Signup</h1>
+        <>
+        <Hero />
+        <Team />
+        
+        </>
     );
 }
 
-export default Signup;
+export default AboutPage;
 
