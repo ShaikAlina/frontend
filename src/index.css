@@ -21,6 +21,17 @@ code {
  border:none;
 }
 
+section #supportHero{
+  background-color:'blue';
+  height: 10%;
+}
+
+#supportWrapper{
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
 #track a{
   color: aliceblue;  text-decoration: none;
 }
