@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function Footer() {
   return (
@@ -15,87 +16,87 @@ function Footer() {
         </div>
         <div className="col">
           <p>Company</p>
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="./about" style={{ textDecoration: "none", color: "black" }}>
             About
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="./products/ProductPage" style={{ textDecoration: "none", color: "black" }}>
             Products
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="./pricing" style={{ textDecoration: "none", color: "black" }}>
             Pricing
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Referral programme
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Careers
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Zerodha.tech
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Press & media
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Zerodha Cares (CSR)
-          </a>
+          </Link>
           <br />
         </div>
         <div className="col">
           <p>Support</p>
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Contact us
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Support portal
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Z-Connect blog
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             List of charges
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Downloads & resources
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Videos
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Market overview
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             How to file a complaint?
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Status of your complaints
-          </a>
+          </Link>
           <br />
         </div>
         <div className="col">
           <p>Account</p>
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Open an account
-          </a>
+          </Link>
           <br />
-          <a href="" style={{ textDecoration: "none", color: "black" }}>
+          <Link to="" style={{ textDecoration: "none", color: "black" }}>
             Fund transfer
-          </a>
+          </Link>
         </div>
       </div>
       <div className="mt-5 text-muted" style={{fontSize:"13px"}}>
