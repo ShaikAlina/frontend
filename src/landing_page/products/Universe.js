@@ -14,7 +14,7 @@ function Universe(){
             <div className="p-5">
                <div className="row p-5">
                 <div className="col-4 text-center">
-                    <img src="media/images/zerodhafund_universe.png" style={{width:"12rem"}} className="mb-2"/><br />
+                    <img alt="universe" src="media/images/zerodhafund_universe.png" style={{width:"12rem"}} className="mb-2"/><br />
                     <small className=" text-muted">Our asset management venture<br />
                        that is creating sime and transparent index<br />
                        funds to help you save for your goals.
@@ -22,7 +22,7 @@ function Universe(){
                 </div>
 
                 <div className="col-4 text-center">
-                <img src="media/images/sensibull_universe.svg" style={{width:"12rem"}} className="mb-4"/><br />
+                <img alt="universe" src="media/images/sensibull_universe.svg" style={{width:"12rem"}} className="mb-4"/><br />
                 <small className=" text-muted ">Options trading platform that lets you<br />
                    create strategies, analyze positions, and examine<br />
                    data points like open interest, FII/DII, and more.
@@ -30,7 +30,7 @@ function Universe(){
                 </div>
                 
                 <div className="col-4 text-center">
-                <img src="media/images/tijori_universe.svg" style={{width:"8rem"}} className="mb-2"/><br />
+                <img alt="universe" src="media/images/tijori_universe.svg" style={{width:"8rem"}} className="mb-2"/><br />
                 <small className=" text-muted ">Investment research platform<br />
                    that offers detailed insights on stocks,<br />
                     sectors, supply chains, and more.</small>
@@ -39,21 +39,21 @@ function Universe(){
 
             <div className="row p-5">
                 <div className="col-4 text-center">
-                <img src="media/images/streak_universe.png" style={{width:"9rem"}} className="mb-3"/><br />
+                <img alt="universe" src="media/images/streak_universe.png" style={{width:"9rem"}} className="mb-3"/><br />
                 <small className=" text-muted ">Systematic trading platform<br />
                        that allows you to create and backtest<br />
                          strategies without coding.</small>
                 </div>
 
                 <div className="col-4 text-center">
-                <img src="media/images/smallcase_universe.png" style={{width:"12rem"}} className="mb-3"/><br />
+                <img alt="universe" src="media/images/smallcase_universe.png" style={{width:"12rem"}} className="mb-3"/><br />
                 <small className=" text-muted ">Investment research platform<br />
                    that offers detailed insights on stocks,<br />
                     sectors, supply chains, and more.</small>
                 </div>   
 
                 <div className="col-4 text-center">
-                <img src="media/images/ditto_universe.png" style={{width:"8rem"}} className="mb-3"/><br />
+                <img alt="universe" src="media/images/ditto_universe.png" style={{width:"8rem"}} className="mb-3"/><br />
                 <small className=" text-muted ">Investment research platform<br />
                    that offers detailed insights on stocks,<br />
                     sectors, supply chains, and more.</small>
